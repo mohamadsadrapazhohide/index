@@ -1,0 +1,43 @@
+body{
+    direction: ltr;
+}
+table{      
+    font-size: 38px;
+    border-spacing: 0ch;
+    width: 97.5%;
+    height: 97.5%; 
+    text-align: center;
+}
+.tr1{    
+    background-color: green;
+    color: white;
+    border-top-left-radius: 20px;
+    border-radius: 20%;
+}
+.tr2{    
+    background-color: #d4d4d4;
+    color: green;
+}
+.td1{
+    border-top: rgb(110, 110, 110) solid medium;
+    border-bottom: rgb(110, 110, 110) solid medium;
+}
+
+
+
+.redius1{
+    border-top-left-radius: 20px;
+}
+.redius2{
+    border-top-right-radius: 20px;
+}
+.redius3{
+    border-top: green solid thick;
+    border-bottom: green solid thick;
+}
+.redius4{
+    font-size: larger;
+    color: red;
+    border-top: green solid thick;
+    border-bottom: green solid thick;
+}
